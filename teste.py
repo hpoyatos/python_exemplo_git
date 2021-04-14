@@ -1,2 +1,5 @@
 nome="Poyatos"
-print("Alô mundo, {}!".format(nome))
+print("Alô mundo, {}!\n".format(nome))
+
+#Nova funcionalidade
+print("Isso aqui é novo!")
